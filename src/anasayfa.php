@@ -23,9 +23,9 @@
     ####################### DÜZENLEMESİ ZORUNLU ALANLAR #######################
     #
     ## API Entegrasyon Bilgileri - Mağaza paneline giriş yaparak BİLGİ sayfasından alabilirsiniz.
-    $merchant_id    = '312068';
-    $merchant_key   = 'zTdMc8P92GwRYCrx';
-    $merchant_salt  = 'nFHbUbwMZepcYu6E';
+    $merchant_id    = '1111';
+    $merchant_key   = 'asdasdsd12gh';
+    $merchant_salt  = 'asdvfgb678';
     #
     ## Müşterinizin sitenizde kayıtlı veya form vasıtasıyla aldığınız eposta adresi
     $email = $degisken->email;
