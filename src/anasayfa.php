@@ -11,6 +11,10 @@
 
 <?php
 echo "tanrı verdi";
+# toplama islemi
+$degisken=5*6;
+
+echo $degisken;
 
 ?>
 
